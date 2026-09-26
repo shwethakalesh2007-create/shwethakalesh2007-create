@@ -1,95 +1,157 @@
 <div align="center">
 
-# 🌙 Hi, I'm Shwetha
-
-### 💻 Computer Science Student · 🐍 Python · 📊 Data
-
-**Learning · Building · Exploring**
-
-💜 ─────────────────────── 💗 ─────────────────────── 💜
+<img src="./profile-banner.png" width="100%">
 
 </div>
 
-## 🌱 About Me
+<br>
 
-I'm a Computer Science student exploring software development,
-data analysis, and the process of turning ideas into projects.
+<table>
+<tr>
 
-### ✦ Currently working with
+<td width="45%" valign="top">
 
-| 🐍 Python | 📊 Pandas | 🗄️ SQL | 🔗 Git & GitHub |
-|:---:|:---:|:---:|:---:|
+## ♡ About Me
 
----
+### Shwetha Kalesh
+
+Computer Science student exploring:
+
+- Software development
+- Data analysis
+- Python projects
+- Problem solving
+
+Currently learning and building projects
+around things I'm genuinely interested in.
+
+</td>
+
+<td width="55%" valign="top">
+
+## ✦ Tech Stack
 
 <div align="center">
 
-# 🎬 Featured Project
+<img src="https://skillicons.dev/icons?i=python,pandas,mysql,git,github,vscode,jupyter,excel,matplotlib&theme=dark">
 
-## 🐝 K-Drama Hive
+</div>
 
-**A Python + Pandas project for discovering K-dramas**
+<br>
 
-🔎 Genres　·　🎭 Tropes　·　👩 Lead Types　·　📺 Platforms
+`Python` · `Pandas` · `SQL` · `Git` · `GitHub`
 
-`Python` `Pandas` `CSV`
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shwethakalesh2007-create&theme=tokyonight" width="100%">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shwethakalesh2007-create&theme=tokyonight&hide_border=true" width="60%">
 
 </div>
 
 ---
 
-## 🧭 Currently Exploring
+# ✦ My Projects
 
-🌱 **Python & Problem Solving**
+<table>
+<tr>
 
-📊 **Data Analysis**
+<td width="33%" valign="top">
 
-🗄️ **SQL**
+### 🎬 K-Drama Hive
 
-💻 **Project Development**
+A Python + Pandas project for discovering K-dramas through:
 
-🔗 **Git & GitHub**
+🔎 Genres  
+🎭 Tropes  
+👩 Lead Types  
+📺 Platforms
+
+**Python · Pandas · CSV**
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📊 Student Performance Analyzer
+
+A data-analysis project for working with student marks, grades and performance statistics.
+
+**Python · Pandas · CSV**
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔎 Memory Finder
+
+A Python project that searches stored information using keywords and matching logic.
+
+**Python · Pandas · CSV**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<div align="center">
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌱 Currently Exploring
+
+🐍 Python  
+📊 Data Analysis  
+🗄️ SQL  
+💻 Project Development  
+🔗 Git & GitHub
+
+</td>
+
+<td width="50%" valign="top">
 
 ## 🎧 Beyond Code
 
-**K-Pop** · **K-Dramas** · **Creative Projects** · **Learning**
+🎵 K-Pop  
+🎬 K-Dramas  
+📚 Learning  
+💡 Creative Projects
 
-🌷 ───────────────────────────────── 🌷
+</td>
 
-</div>
-
-## 📌 My Projects
-
-| Project | Description | Built With |
-|---|---|---|
-| 🎬 **K-Drama Hive** | K-drama discovery and search | Python · Pandas · CSV |
-| 📊 **Student Performance Analyzer** | Student marks and performance analysis | Python · Pandas |
-| 🔎 **Memory Finder** | Search through stored information | Python · Pandas |
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 💫 GitHub
+### ✦ Small steps. Big projects. ✦
 
-[![GitHub](https://img.shields.io/badge/GitHub-shwethakalesh2007--create-181717?style=for-the-badge&logo=github)](https://github.com/shwethakalesh2007-create)
+**Learn · Build · Improve**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shwethakalesh2007-create&style=for-the-badge&color=blueviolet)](https://github.com/shwethakalesh2007-create)
+<br>
 
-</div>
-
----
-
-<div align="center">
-
-### 🌸 Learn · Build · Improve 🌸
-
-*Turning ideas into projects, one step at a time.*
-
-💜 💗 💙
+[![GitHub](https://img.shields.io/badge/Visit%20my%20GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shwethakalesh2007-create)
 
 </div>
