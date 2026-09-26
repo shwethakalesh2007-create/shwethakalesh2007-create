@@ -1,36 +1,16 @@
-# Hey, I'm Shwetha 👋
+### Hi there 👋
 
-### Computer Science Student · Python · Data
+<!--
+**shwethakalesh2007-create/shwethakalesh2007-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-> Exploring ideas, building projects, and learning along the way.
+Here are some ideas to get you started:
 
-I'm a Computer Science student interested in software development,
-data, and creating projects around things I genuinely enjoy.
-
----
-
-### ✦ What I'm working with
-
-Python  
-Pandas & Data Analysis  
-SQL  
-Git & GitHub
-
-### ✦ Featured Project
-
-**K-Drama Hive**
-
-A Python + Pandas project designed to make finding your next
-K-drama easier.
-
-Search by genres, tropes, lead types, platforms, and more.
-
-`Python` `Pandas` `CSV`
-
-### ✦ Beyond Code
-
-K-Pop • K-Dramas • Learning
-
----
-
-*Building ideas into projects, one step at a time.*
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
