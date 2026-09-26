@@ -1,45 +1,69 @@
 <div align="center">
 
-# Hi, I'm Shwetha 👋
+# ✨ Hi, I'm Shwetha 👋
 
-### Computer Science Student · Python · Data
+### 💻 Computer Science Student · 🐍 Python · 📊 Data
 
-*Learning, building, and turning ideas into projects.*
+**Learning · Building · Exploring**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/shwethakalesh2007-create)
+🌷 ───────────────────────────── 🌷
 
 </div>
 
----
-
-## ✦ About Me
+## 🌱 About Me
 
 I'm a Computer Science student exploring software development,
-data analysis, and the process of building useful projects from scratch.
+data analysis, and the process of turning ideas into projects.
 
-Currently learning and working with:
+Currently working with:
 
-`Python` · `Pandas` · `SQL` · `Git & GitHub`
+🐍 **Python** · 📊 **Pandas** · 🗄️ **SQL** · 🔗 **Git & GitHub**
 
 ---
 
-## ✦ Featured Project
+## 🎨 What I'm Building
 
-### 🎬 K-Drama Hive
+### 🎬 K-Drama Hive 🐝
 
-A Python + Pandas project built around a simple idea:
+A Python + Pandas project designed to make finding your next
+K-drama easier.
 
-**Make finding your next K-drama easier.**
-
-Search by genres, tropes, lead types, platforms, and more.
+🔎 Genres · 🎭 Tropes · 👩 Lead Types · 📺 Platforms
 
 `Python` `Pandas` `CSV`
 
 ---
 
-## ✦ What I'm Exploring
+## 💫 Currently Exploring
 
-```text
-Python          Data Analysis
-SQL             Git & GitHub
-Problem Solving Project Building
+| 🐍 Python | 📊 Data Analysis |
+|:---:|:---:|
+| 🗄️ SQL | 🔗 Git & GitHub |
+
+---
+
+## 🎧 Outside the Code
+
+**K-Pop** · **K-Dramas** · **Creative Projects** · **Learning**
+
+---
+
+## 📈 GitHub
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shwethakalesh2007-create&show_icons=true&hide_border=true&theme=tokyonight" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwethakalesh2007-create&layout=compact&hide_border=true&theme=tokyonight" height="165">
+
+</p>
+
+---
+
+<div align="center">
+
+### 🌸 Learn · Build · Improve 🌸
+
+*Thanks for stopping by!*
+
+</div>
